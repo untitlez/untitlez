@@ -2,7 +2,7 @@
 
 ## Frontend Developer
 
-I ‘m interested in working as a Frontend Developer. Currently, I keep improving my skills and practice myself. If there were experts willing to guide or mentor me, I would be extremely grateful.
+I’m a passionate learner on the path to becoming a Fullstack Developer. I began with UX/UI and frontend development, and now I’m actively building my backend skills. I enjoy working on mini projects to practice and continuously improve. I’m always eager to grow and contribute.
 
 - 🌍  I'm based in Chiang Mai, Thailand
 - ✉️  You can contact me at [supanatt.cs@gmail.com](mailto:supanatt.cs@gmail.com)
