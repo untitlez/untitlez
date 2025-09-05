@@ -1,8 +1,8 @@
-# Hi there! I'm SUPANAT CHAISRI ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+# Hi there! 👋 I'm SUPANAT CHAISRI
 
-## Frontend Developer
+## Fullstack Developer
 
-I am passionate about pursuing a career as a Full-Stack Developer. Although I do not hold a formal IT degree, I have been committed to self-learning through online courses, YouTube, and other resources. My journey began with UX/UI Design, then progressed to Frontend, Backend, and ultimately Full-Stack Development. I am continuously learning new languages and tools to be fully prepared for real-world work experience and professional growth.
+🌱 I am passionate about pursuing a career as a Full-Stack Developer. Although I do not hold a formal IT degree, I have been committed to self-learning through online courses, YouTube, and other resources. My journey began with UX/UI Design, then progressed to Frontend, Backend, and ultimately Full-Stack Development. I am continuously learning new languages and tools to be fully prepared for real-world work experience and professional growth.
 
 - 🌍  I'm based in Chiang Mai, Thailand
 - ✉️  You can contact me at [supanatt.cs@gmail.com](mailto:supanatt.cs@gmail.com)
