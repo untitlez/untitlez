@@ -1,4 +1,4 @@
-# Hi there! I'm SUPANAT CHAISRI (https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+# Hi there! I'm SUPANAT CHAISRI [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 ## Frontend Developer
 
@@ -15,4 +15,4 @@ I am passionate about pursuing a career as a Full-Stack Developer. Although I do
 
 ### Socials
 
-<p align="left"> <a href="https://www.linkedin.com/in//thetlez" target="_blank" rel="noreferrer"> <picture>  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> <a href="https://www.linkedin.com/in//thetlez" target="_blank" rel="noreferrer"> <picture> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
